@@ -1,4 +1,6 @@
 # Data Visualization Internship Project
+![Screenshot 2024-09-03 131133](https://github.com/user-attachments/assets/b8e64933-b1cd-49ca-9446-7134df051060)
+
 
 This repository contains the work and deliverables completed during the **Data Visualization Internship** at **Cognifyz Technologies**. The project focuses on creating various data visualizations using Microsoft Excel, analyzing different datasets, and presenting the findings in a professional and engaging format.
 
