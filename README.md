@@ -40,5 +40,4 @@ This internship project provided an excellent opportunity to delve into the worl
 Working with Cognifyz Technologies has been a rewarding experience, enhancing my skills in data analysis and visualization while also deepening my understanding of data-driven decision-making processes. The tools and techniques learned during this internship will undoubtedly be invaluable in my future career in data science and analytics.
 
 ## Connect with RAGHAVENDRA KUMAR PADHARLA
-LinkedIn: linkedin.com/in/raghavendra-kumar-padharla
-Instagram:URSRAGHU7
+- **LinkedIn**: linkedin.com/in/raghavendra-kumar-padharla
